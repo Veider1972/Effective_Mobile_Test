@@ -1,0 +1,35 @@
+package ru.veider.effectivemobiletest.ui.theme
+
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.res.colorResource
+import ru.veider.effectivemobiletest.R
+
+val colorSurface @Composable get()= colorResource(id = R.color.color_surface)
+val colorOnSurface @Composable get()= colorResource(id = R.color.color_on_surface)
+val colorPrimary @Composable get()= colorResource(id = R.color.color_primary)
+val color7B7B7B @Composable get()= colorResource(id = R.color.color_7b7b7b)
+val colorE8E8E8 @Composable get()= colorResource(id = R.color.color_e8e8e8)
+val colorEAEAEA @Composable get()= colorResource(id = R.color.color_eaeaea)
+val color808080 @Composable get()= colorResource(id = R.color.color_808080)
+val color254FE6 @Composable get()= colorResource(id = R.color.color_254fe6)
+val color4E55D7 @Composable get()= colorResource(id = R.color.color_4E55D7)
+val color737297 @Composable get()= colorResource(id = R.color.color_737297)
+val color909090 @Composable get()= colorResource(id = R.color.color_909090)
+val colorEEEFF4 @Composable get()= colorResource(id = R.color.color_eeeff4)
+val color4E4D4D @Composable get()= colorResource(id = R.color.color_4e4d4d)
+val colorF5F6F7 @Composable get()= colorResource(id = R.color.color_f5f6f7)
+val color5B5B5B @Composable get()= colorResource(id = R.color.color_5b5b5b)
+val colorA6A7AB @Composable get()= colorResource(id = R.color.color_a6a7ab)
+val color040402 @Composable get()= colorResource(id = R.color.color_040402)
+val colorD9C4C4C4 @Composable get()= colorResource(id = R.color.color_D9C4C4C4)
+val colorF93A3A @Composable get()= colorResource(id = R.color.color_F93A3A)
+val colorFAF9FF @Composable get()= colorResource(id = R.color.color_FAF9FF)
+val colorE5E9EF @Composable get()= colorResource(id = R.color.color_E5E9EF)
+val color161826 @Composable get()= colorResource(id = R.color.color_161826)
+val color737373 @Composable get()= colorResource(id = R.color.color_737373)
+val colorADADAD @Composable get()= colorResource(id = R.color.color_ADADAD)
+val colorC4C4C4 @Composable get()= colorResource(id = R.color.color_C4C4C4)
+val color181726 @Composable get()= colorResource(id = R.color.color_181726)
+val color99A0FF @Composable get()= colorResource(id = R.color.color_99A0FF)
+val colorC0C0C0 @Composable get()= colorResource(id = R.color.color_C0C0C0)
+val color3F3F3F @Composable get()= colorResource(id = R.color.color_3F3F3F)

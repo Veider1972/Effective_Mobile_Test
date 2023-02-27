@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_surface">#FFFAF9FF</color>
+    <color name="color_on_surface">#FF000000</color>
+    <color name="color_primary">#FF4E55D7</color>
+    <color name="color_7b7b7b">#FF7B7B7B</color>
+    <color name="color_e8e8e8">#FFE8E8E8</color>
+    <color name="color_eaeaea">#FFEAEAEA</color>
+    <color name="color_808080">#FF808080</color>
+    <color name="color_254fe6">#FF254FE6</color>
+    <color name="color_4E55D7">#FF4E55D7</color>
+    <color name="color_737297">#FF737297</color>
+    <color name="color_909090">#FF909090</color>
+    <color name="color_eeeff4">#FFEEEFF4</color>
+    <color name="color_4e4d4d">#FF4E4D4D</color>
+    <color name="color_f5f6f7">#FFF5F6F7</color>
+    <color name="color_5b5b5b">#FF5B5B5B</color>
+    <color name="color_a6a7ab">#FFA6A7AB</color>
+    <color name="color_040402">#FF040402</color>
+    <color name="color_D9C4C4C4">#D9C4C4C4</color>
+    <color name="color_F93A3A">#FFF93A3A</color>
+    <color name="color_FAF9FF">#FFFAF9FF</color>
+    <color name="color_E5E9EF">#FFE5E9EF</color>
+    <color name="color_161826">#FF161826</color>
+    <color name="color_737373">#FF737373</color>
+    <color name="color_ADADAD">#FFADADAD</color>
+    <color name="color_C4C4C4">#FFC4C4C4</color>
+    <color name="color_181726">#FF181726</color>
+    <color name="color_99A0FF">#FF99A0FF</color>
+    <color name="color_C0C0C0">#FFC0C0C0</color>
+    <color name="color_3F3F3F">#FF3F3F3F</color>
+</resources>
